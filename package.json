@@ -4,7 +4,8 @@
   "description": "Console app for find torrents through YIFI, download torrents and play torrents",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "bin": {
     "yps_browser": "bin/yps_browser.js"
